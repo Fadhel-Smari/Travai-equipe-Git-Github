@@ -1,3 +1,7 @@
+import random
+
+# Fonction pour retourne un mot aléatoire de la liste
 def choisir_mot():
     mots = ["python", "programmation", "github", "collaboration"]
-    # Retourner un mot aléatoire
+    mot_aleatoire = random.choice(mots)
+    return mot_aleatoire

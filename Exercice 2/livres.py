@@ -1,4 +1,5 @@
 # Structure initiale
+#verification
 bibliotheque = []
 
 def ajouter_livre(titre, auteur):

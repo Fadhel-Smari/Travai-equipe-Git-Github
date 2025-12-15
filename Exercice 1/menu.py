@@ -5,7 +5,7 @@ def afficher_desserts():
     for d in desserts:
         print(d)
 
-def maim():
+def main():
     print("=== MENU DU RESTAURANT ===")
     afficher_desserts()
 

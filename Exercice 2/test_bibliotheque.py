@@ -11,6 +11,6 @@ afficher_livres()
 print("\nTest de recherche de livres")
 livre = rechercher_livre("1984")
 if livre:
-    print("Livre trouvee")
+    print("Livre trouvé")
 else:
-    print("Livre non trouve")
+    print("Livre non trouvé")

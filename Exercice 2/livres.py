@@ -1,4 +1,7 @@
 
+# Structure initiale
+#verification
+
 bibliotheque = []
 
 # Fonction pour ajouter un livre à la bibliothèque

@@ -1,5 +1,7 @@
+import gestion
+
 def main():
-    
-    print("Initialisation du système de tickets")
-    print("Chargement des paramètres")
-    print("Démarrage de l'application")
+
+    gestion.ajouter_ticket()
+    gestion.supprimer_ticket()
+

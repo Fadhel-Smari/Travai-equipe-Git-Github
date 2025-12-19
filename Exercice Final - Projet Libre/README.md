@@ -3,7 +3,7 @@
 ## Equipe
 
 - [Membre 1] - Rôle/Fonctionnalité
-- [Membre 2] - Rôle/Fonctionnalité
+- Gabriel Cadieux - Configurer le jeu, detect le gagnant et le choix de l'ai
 - [Membre 3] - Rôle/Fonctionnalité
 - Bhatti Unaiza Ali - Afiichage du menu, choix joueur, choix ai et resultat
 
@@ -16,7 +16,7 @@
 ## Fonctionnalités
 
 - [ ] Affichage du menu, choix des 2 joueurs et affichage du résultat (par Unaiza)
-- [ ] Fonctionnalité 2 (par [Membre])
+- [ ] Configurer le jeu, detect le gagnant et le choix de l'ai (par Gabriel)
 - [ ] Fonctionnalité 3 (par [Membre])
 - [ ] Fonctionnalité 4 (par [Membre])
 

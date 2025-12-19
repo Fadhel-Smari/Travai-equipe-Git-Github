@@ -4,7 +4,6 @@ def afficher_entrees():
     print("\n=== ENTRÉES ===")
     for entree in liste_entrees:
         print(entree)
-afficher_entrees()
 
 # ajouts des désserts
 def afficher_desserts():

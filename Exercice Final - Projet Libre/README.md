@@ -1,11 +1,11 @@
-# [Nom du Projet]
+# Jeu de roche papier ciseau
 
 ## Equipe
 
 - [Membre 1] - Rôle/Fonctionnalité
 - [Membre 2] - Rôle/Fonctionnalité
 - [Membre 3] - Rôle/Fonctionnalité
-- [Membre 4] - Rôle/Fonctionnalité
+- Unaiza - Afiichage du menu, choix joueur, choix ai et resultat
 
 ## Installation
 
@@ -15,7 +15,7 @@
 
 ## Fonctionnalités
 
-- [ ] Fonctionnalité 1 (par [Membre])
+- [ ] Affichage du menu, choix des 2 joueurs et affichage du résultat (par Unaiza)
 - [ ] Fonctionnalité 2 (par [Membre])
 - [ ] Fonctionnalité 3 (par [Membre])
 - [ ] Fonctionnalité 4 (par [Membre])

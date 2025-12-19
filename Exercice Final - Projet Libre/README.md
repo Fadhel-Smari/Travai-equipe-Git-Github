@@ -5,7 +5,7 @@
 - [Membre 1] - Rôle/Fonctionnalité
 - [Membre 2] - Rôle/Fonctionnalité
 - [Membre 3] - Rôle/Fonctionnalité
-- Unaiza - Afiichage du menu, choix joueur, choix ai et resultat
+- Bhatti Unaiza Ali - Afiichage du menu, choix joueur, choix ai et resultat
 
 ## Installation
 

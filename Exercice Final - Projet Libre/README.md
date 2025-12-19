@@ -9,8 +9,8 @@
 
 ## Installation
 
-1. git clone [url]
-2. cd [projet]
+1. git clone https://github.com/Fadhel-Smari/Travai-equipe-Git-Github.git
+2. cd Exercice\ Final\ -\ Projet\ Libre
 3. python main.py
 
 ## Fonctionnalités

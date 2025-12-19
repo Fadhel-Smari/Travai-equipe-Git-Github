@@ -1,18 +1,29 @@
 import ticket
 
-def changer_statut():
-        titre = input("Titre du ticket a modifier: ")
 
-        if titre in tickets:
+def ajouter_ticket(tickets):
+        id_ticket = input("ID du ticket: ")
+        titre = input("Titre du ticket: ")
+        description = input("Description du ticket: ")
+        statut = "À faire"
+        nouveau_ticket = ticket.Ticket(id_ticket, titre, description, statut)
+        tickets[id_ticket] = nouveau_ticket
+        print(f"Ajout de: - id: {nouveau_ticket.id_ticket} - titre: {nouveau_ticket.titre} - desc.: {nouveau_ticket.description} - statut: {nouveau_ticket.statut}")
+        return tickets
+
+def changer_statut(tickets):
+        id = input("Id du ticket a modifier: ")
+
+        if id in tickets:
                 print("1. À faire\n2. En Cours\n3. Terminer")
                 choix = input("Nouveau statu(1-3): ")
 
                 if choix == "1":
-                        ticket[titre].statut = "À faire"
+                        tickets[id].statut = "À faire"
                 elif choix == "2":
-                        ticket[titre].statut = "En Cours"
+                        tickets[id].statut = "En Cours"
                 elif choix == "3":
-                        ticket[titre].statut = "Terminer"
+                        tickets[id].statut = "Terminer"
 
-                print(f"Statut de {titre} changé à: {ticket[titre].statut}")
+                print(f"Statut de {id} changé à: {tickets[id].statut}")
         return tickets

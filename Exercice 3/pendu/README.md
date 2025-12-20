@@ -1,8 +1,8 @@
-# [Exercice 1-5]
+# [Exercice 3]
 
 ## Equipe
 
-- [Membre 1] - Rôle/Fonctionnalité
+- [Fadhel Smari] - Choix aléatoire d'un mot dans une liste
 - [Gabriel cadieux] - l'affichage 
 - [Membre 3] - Rôle/Fonctionnalité
 - Bhatti Unaiza Ali - Cree main.py
@@ -14,7 +14,7 @@
 
 ## Fonctionnalités
 
-- [ ] Fonctionnalité 1 (par [Membre])
+- Choisir un mot aléatoirement dans une liste à l’aide du module random (par Fadhel Smari)
 - l'affichage des étape du pendu exercice (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
 - [ ] Importer tous les modules et orchestrer le jeu (par Bhatti Unaiza Ali)

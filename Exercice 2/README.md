@@ -1,8 +1,8 @@
-# [Exercice 1-5]
+# Exercice 2
 
 ## Equipe
 
-- [Membre 1] - Rôle/Fonctionnalité
+- [Fadhel Smari] - Ajout d'un livre à la bibliothèque
 - [Gabriel cadieux] - afficher les livres exercice
 - [Membre 3] - Rôle/Fonctionnalité
 - Bhatti Unaiza Ali - Crée les tests
@@ -15,7 +15,7 @@
 
 ## Fonctionnalités
 
-- [ ] Fonctionnalité 1 (par [Membre])
+- Ajouter un nouveau livre à la bibliothèque à partir de son titre et de son auteur (par Fadhel Smari)
 - afficher tous les livres de la bibliotheque exercice (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
 - Crée les tests pour confirmer que le code fonctionne bien (par Bhatti Unaiza Ali )

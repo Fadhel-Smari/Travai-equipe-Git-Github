@@ -17,7 +17,7 @@
 - [ ] Fonctionnalité 1 (par [Membre])
 - mise a jour des ticket et ajout de nouveau ticket et initialization main (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
-- [ ] Fonctionnalité 4 (par [Membre])
+- Sauvegardet et charger des tickets depuis le fichier JSON (par Bhatti Unaiza Ali )
 
 ## Leçons Apprises
 

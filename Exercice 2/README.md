@@ -5,7 +5,7 @@
 - [Membre 1] - Rôle/Fonctionnalité
 - [Gabriel cadieux] - afficher les livres exercice
 - [Membre 3] - Rôle/Fonctionnalité
-- [Membre 4] - Rôle/Fonctionnalité
+- Bhatti Unaiza Ali - Crée les tests
 
 ## Installation
 
@@ -18,7 +18,7 @@
 - [ ] Fonctionnalité 1 (par [Membre])
 - afficher tous les livres de la bibliotheque exercice (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
-- [ ] Fonctionnalité 4 (par [Membre])
+- Crée les tests pour confirmer que le code fonctionne bien (par Bhatti Unaiza Ali )
 
 ## Leçons Apprises
 

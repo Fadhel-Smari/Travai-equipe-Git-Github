@@ -1,3 +1,71 @@
+# #Intro au jeux / duplicat..
+# def affichage_depart():
+#     print("=== Jeu du Pendu ===")
+
+#affiche different stage de pendu
 def afficher_pendu(erreurs):
-    pass
-    # Dessins ASCII selon le nombre d'erreurs
+    stage = [
+        '''
+  ¤---¬
+  |   |
+      |
+      |
+      |
+      |
+=========
+        ''',
+        '''
+  ¤---¬
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+        ''',
+        '''
+  ¤---¬
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+        ''',
+        '''
+  ¤---¬
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+        ''',
+        '''
+  ¤---¬
+  |   |
+  O   |
+ /|\\  |
+      |
+      |
+=========
+        ''',
+        '''
+  ¤---¬
+  |   |
+  O   |
+ /|\\  |
+ /    |
+      |
+=========
+        ''',
+        '''
+  ¤---¬
+  |   |
+  Ø   |
+ /|\\  |
+ / \\  |
+      |
+=========
+        ''',]
+    print(stage[erreurs])

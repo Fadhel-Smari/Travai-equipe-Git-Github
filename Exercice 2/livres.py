@@ -1,11 +1,17 @@
+
 # Structure initiale
+#verification
+
 bibliotheque = []
 
+# Fonction pour ajouter un livre à la bibliothèque
 def ajouter_livre(titre, auteur):
-    pass
+    livre = {"titre": titre, "auteur": auteur}
+    bibliotheque.append(livre)
 
 def afficher_livres():
-    pass
+    for livre in bibliotheque:
+        print(f"{livre['titre']} - {livre['auteur']}")
 
 def rechercher_livre(titre):
     pass

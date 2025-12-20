@@ -5,8 +5,7 @@
 - [Membre 1] - Rôle/Fonctionnalité
 - [Gabriel cadieux] - l'affichage 
 - [Membre 3] - Rôle/Fonctionnalité
-- [Membre 4] - Rôle/Fonctionnalité
-
+- Bhatti Unaiza Ali - Cree main.py
 ## Installation
 
 1. git clone https://github.com/Fadhel-Smari/Travai-equipe-Git-Github.git
@@ -18,7 +17,7 @@
 - [ ] Fonctionnalité 1 (par [Membre])
 - l'affichage des étape du pendu exercice (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
-- [ ] Fonctionnalité 4 (par [Membre])
+- [ ] Importer tous les modules et orchestrer le jeu (par Bhatti Unaiza Ali)
 
 ## Leçons Apprises
 

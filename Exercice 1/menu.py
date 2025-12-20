@@ -11,11 +11,15 @@ def afficher_desserts():
     print("=== DESSERTS ===")
     for d in desserts:
         print(d)
+   
 
 # Structure de départ
 def main():
     print("=== MENU DU RESTAURANT ===")
     afficher_entrees()
+    afficher_plats_principaux()
+    afficher_desserts()
+
     # Les autres ajouteront leur code ici
 
 

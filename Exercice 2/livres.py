@@ -14,4 +14,7 @@ def afficher_livres():
         print(f"{livre['titre']} - {livre['auteur']}")
 
 def rechercher_livre(titre):
-    pass
+    for livre in bibliotheque:
+        if livre['titre'].lower() == titre.lower():
+            return livre
+    return None

@@ -5,7 +5,7 @@
 - [Membre 1] - Rôle/Fonctionnalité
 - [Gabriel cadieux] - fonction entrer 
 - [Membre 3] - Rôle/Fonctionnalité
-- [Membre 4] - Rôle/Fonctionnalité
+- Bhatti Unaiza Ali - Ajouter dessrts et cree le main
 
 ## Installation
 
@@ -18,7 +18,7 @@
 - [ ] Fonctionnalité 1 (par [Membre])
 - crée entrer et print exercice (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
-- [ ] Fonctionnalité 4 (par [Membre])
+- Crée afficher_desserts(), creer le main pour tout afficher  (par Bhatti Unaiza Ali)
 
 ## Leçons Apprises
 

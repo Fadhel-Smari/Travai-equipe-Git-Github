@@ -1,8 +1,10 @@
+# Exercice Final : Projet Libre
+
 # Jeu de roche papier ciseau
 
 ## Equipe
 
-- [Membre 1] - Rôle/Fonctionnalité
+- Fadhel Smari - Gestion de la logique principale du jeu (main)
 - Gabriel Cadieux - Configurer le jeu, detect le gagnant et le choix de l'ai
 - [Membre 3] - Rôle/Fonctionnalité
 - Bhatti Unaiza Ali - Afiichage du menu, choix joueur, choix ai et resultat
@@ -17,7 +19,7 @@
 
 - [ ] Affichage du menu, choix des 2 joueurs et affichage du résultat (par Unaiza)
 - [ ] Configurer le jeu, detect le gagnant et le choix de l'ai (par Gabriel)
-- [ ] Fonctionnalité 3 (par [Membre])
+- [ ] Fonction principale permettant de lancer le jeu, gérer la boucle de jeu, les choix du joueur et l’enchaînement des parties (par Fadhel Smari)
 - [ ] Fonctionnalité 4 (par [Membre])
 
 ## Leçons Apprises

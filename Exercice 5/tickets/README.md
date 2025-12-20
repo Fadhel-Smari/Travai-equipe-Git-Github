@@ -5,8 +5,7 @@
 - [Membre 1] - Rôle/Fonctionnalité
 - [Gabriel cadieux] - gestion et initialization main
 - [Membre 3] - Rôle/Fonctionnalité
-- [Membre 4] - Rôle/Fonctionnalité
-
+- Bhatti Unaiza Ali - Fichier JSON et main
 ## Installation
 
 1. git clone https://github.com/Fadhel-Smari/Travai-equipe-Git-Github.git

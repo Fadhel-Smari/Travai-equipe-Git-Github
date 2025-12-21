@@ -7,7 +7,7 @@ from ticket import Ticket
 def sauvegarder_tickets(tickets):
     data = []
     for t in tickets:
-        data.append({"id": t.id, "titre": t.titre, "description": t.description, "statut": t.statut})
+        data.append({"id_ticket": t.id_ticket, "titre": t.titre, "description": t.description, "statut": t.statut})
     with open("tickets.json", "w") as f:
         json.dump(data, f)
     print("Tickets sauvegarder!")
@@ -19,7 +19,7 @@ def charger_tickets():
             data = json.load(f)
             tickets = []
             for d in data:
-                tickets.append(Ticket(d["id"], d["titre"], d["description"], d["statut"]))
+                tickets.append(Ticket(d["id_ticket"], d["titre"], d["description"], d["statut"]))
             return tickets
     except FileNotFoundError:
         print("Aucun ticket sauvegarder en ce moment.")

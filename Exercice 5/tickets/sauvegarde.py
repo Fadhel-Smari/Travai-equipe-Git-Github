@@ -10,7 +10,7 @@ def sauvegarder_tickets(tickets):
         data.append({"id_ticket": t.id_ticket, "titre": t.titre, "description": t.description, "statut": t.statut})
     with open("tickets.json", "w") as f:
         json.dump(data, f)
-    print("Tickets sauvegarder!")
+    print("Tickets sauvegardés!")
 
 
 def charger_tickets():

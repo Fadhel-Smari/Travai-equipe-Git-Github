@@ -4,6 +4,8 @@ import sauvegarde
 
 
 def main():
+
+
     tickets = {t.id_ticket: t for t in sauvegarde.charger_tickets()}
 
     while True:

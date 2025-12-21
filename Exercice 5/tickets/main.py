@@ -6,7 +6,7 @@ def main():
     tickets = {}
 
     while True:
-        requete = input("1 ajout de ticket, 2 changer statut ,3 quitter: ")
+        requete = input("1 - ajout de ticket\n2 - changer statut\n3 - quitter\n ")
 
         match requete:
             case "1":
@@ -16,6 +16,6 @@ def main():
             case "3":
                 break
     
-    for titre, t in tickets.items():
-        print(f"{titre}: {t.id_ticket}, {t.description}, {t.statut}")
-main()
+    for t in tickets.values():
+        print(f"{t.id_ticket} -  {t.titre} - {t.description} - {t.statut}")
+main() 

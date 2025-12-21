@@ -2,7 +2,10 @@ import ticket
 
 
 def ajouter_ticket(tickets):
-        id_ticket = input("ID du ticket: ")
+        if not tickets:
+                id_ticket = 1
+        else:
+                id_ticket = max(tickets.keys()) + 1
         titre = input("Titre du ticket: ")
         description = input("Description du ticket: ")
         statut = "À faire"
@@ -12,10 +15,10 @@ def ajouter_ticket(tickets):
         return tickets
 
 def changer_statut(tickets):
-        id = input("Id du ticket a modifier: ")
+        id = int(input("Id du ticket a modifier: "))
 
         if id in tickets:
-                print("1. À faire\n2. En Cours\n3. Terminer")
+                print("1. À faire\n2. En Cours\n3. Terminer\n")
                 choix = input("Nouveau statu(1-3): ")
 
                 if choix == "1":

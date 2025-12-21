@@ -4,7 +4,7 @@
 
 - [Fadhel Smari] - Calcul et interprétation de l’IMC
 - [Gabriel cadieux] - interface exercice
-- [Membre 3] - Rôle/Fonctionnalité
+- [Fabiola sainvry] - historique.py
 - Bhatti Unaiza Ali - main.py et tests
 
 ## Installation
@@ -17,7 +17,7 @@
 
 - Fonctions pour calculer l’IMC et et interpréter sa valeur (par Fadhel Smari)
 - crée les fonctions qui affiche l'interface exercice (par Gabriel Cadieux)
-- [ ] Fonctionnalité 3 (par [Membre])
+- Sauvegarde des résultats d'IMC (par Fabiola sainvry)
 - Orchestre tout + tests unitaires (par Bhatti Unaiza Ali)
 
 ## Leçons Apprises
@@ -25,3 +25,4 @@
 - Comment résoudre les conflits Git
 - L'importance de la communication
 - etc.
+- fermeture des fichiers avec .close() pour éviter les pertes

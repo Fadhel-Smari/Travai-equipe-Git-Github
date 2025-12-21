@@ -2,10 +2,11 @@
 
 ## Equipe
 
-- [Fadhel Smari] - Implémentation de la classe Ticket, création et résolution d'un conflit sur main.py
+- [Fadhel Smari] - Implémentation de la classe Ticket
 - [Gabriel cadieux] - gestion et initialization main
 - [Membre 3] - Rôle/Fonctionnalité
 - Bhatti Unaiza Ali - Fichier JSON
+- Équipe - Création et résolution d'un conflit sur main.py
 ## Installation
 
 1. git clone https://github.com/Fadhel-Smari/Travai-equipe-Git-Github.git
@@ -14,10 +15,11 @@
 
 ## Fonctionnalités
 
-- Classe Ticket permettant de représenter un ticket (id_ticket, titre, description, statut), création et résolution d'un conflit sur main.py (par Fadhel Smari)
+- Classe Ticket permettant de représenter un ticket (id_ticket, titre, description, statut) (par Fadhel Smari)
 - mise a jour des ticket et ajout de nouveau ticket et initialization main (par Gabriel Cadieux)
 - [ ] Fonctionnalité 3 (par [Membre])
 - Sauvegardet et charger des tickets depuis le fichier JSON (par Bhatti Unaiza Ali )
+- Création et résolution d'un conflit sur main.py (par l'équipe)
 
 ## Leçons Apprises
 

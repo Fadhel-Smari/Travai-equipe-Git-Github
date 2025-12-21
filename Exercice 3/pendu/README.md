@@ -4,7 +4,7 @@
 
 - [Fadhel Smari] - Choix aléatoire d'un mot dans une liste
 - [Gabriel cadieux] - l'affichage 
-- [Membre 3] - Rôle/Fonctionnalité
+- [Fabiola sainvry] -la vérification des lettres pour assurer la progression du jeu.
 - Bhatti Unaiza Ali - Cree main.py
 ## Installation
 
@@ -16,7 +16,7 @@
 
 - Choisir un mot aléatoirement dans une liste à l’aide du module random (par Fadhel Smari)
 - l'affichage des étape du pendu exercice (par Gabriel Cadieux)
-- [ ] Fonctionnalité 3 (par [Membre])
+- la gestion des lettres et du compteur d'erreurs pour le jeu (par Fabiola sainvry)
 - [ ] Importer tous les modules et orchestrer le jeu (par Bhatti Unaiza Ali)
 
 ## Leçons Apprises
@@ -24,3 +24,4 @@
 - Comment résoudre les conflits Git
 - L'importance de la communication
 - etc.
+- J'ai appris à retourner plusieurs valeurs

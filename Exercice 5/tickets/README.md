@@ -5,7 +5,7 @@
 - [Fadhel Smari] - Implémentation de la classe Ticket
 - [Gabriel cadieux] - gestion et initialization main
 - [Membre 3] - Rôle/Fonctionnalité
-- Bhatti Unaiza Ali - Fichier JSON et main
+- Bhatti Unaiza Ali - Fichier JSON
 ## Installation
 
 1. git clone https://github.com/Fadhel-Smari/Travai-equipe-Git-Github.git

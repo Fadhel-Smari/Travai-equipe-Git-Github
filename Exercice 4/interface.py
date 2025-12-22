@@ -1,7 +1,7 @@
 def demander_infos():
     # Demande poids et taille
     poids = float(input("Veuillez indiquez votre poids(kg): "))
-    taille = float(input("Veuillez indiquez votre taille(): "))
+    taille = float(input("Veuillez indiquez votre taille(m): "))
     return(poids,taille)
 
 

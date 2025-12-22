@@ -10,7 +10,7 @@
 ## Installation
 
 1. git clone https://github.com/Fadhel-Smari/Travai-equipe-Git-Github.git
-2. cd Exercice\ 2
+2. cd ./Exercice\ 2/
 3. python main.py
 
 ## Fonctionnalités

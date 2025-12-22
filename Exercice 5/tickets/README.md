@@ -4,7 +4,7 @@
 
 - [Fadhel Smari] - Implémentation de la classe Ticket, création et résolution d'un conflit sur main.py
 - [Gabriel cadieux] - gestion et initialization main
-- [Membre 3] - Rôle/Fonctionnalité
+- [Fabiola sainvry ] - interface 
 - Bhatti Unaiza Ali - Fichier JSON
 ## Installation
 
@@ -16,7 +16,7 @@
 
 - Classe Ticket permettant de représenter un ticket (id_ticket, titre, description, statut), création et résolution d'un conflit sur main.py (par Fadhel Smari)
 - mise a jour des ticket et ajout de nouveau ticket et initialization main (par Gabriel Cadieux)
-- [ ] Fonctionnalité 3 (par [Membre])
+- système d'affichage des tickets (ID, Titre, Statut) (par Fabiola)
 - Sauvegardet et charger des tickets depuis le fichier JSON (par Bhatti Unaiza Ali )
 
 ## Leçons Apprises
@@ -25,4 +25,4 @@
 Nous avons appris à identifier un conflit, à analyser les différences entre les versions, puis à le résoudre manuellement avant de finaliser le merge.
 - L'importance de la communication:
 Une bonne communication entre les membres de l’équipe permet d’éviter les conflits inutiles et de s’entendre sur les scénarios de travail avant de modifier les mêmes fichiers.
-
+-Maintenance Git : Utilisation de git restore --staged our corriger les erreurs d'indexation accidentelles de fichiers d'autres exercices et l'intération sur dictionnaires Utilisé de .values() pour parcourir les objets Ticket créés par mes coéquipiers.
